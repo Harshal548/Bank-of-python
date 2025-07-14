@@ -1,0 +1,1 @@
+Bank of Python is a modular console-based banking application that simulates real-world banking operations. It integrates robust logging for traceability, AES encryption for sensitive data, and OTP verification with account blocking to teach secure coding practices. Users can sign up, authenticate,
