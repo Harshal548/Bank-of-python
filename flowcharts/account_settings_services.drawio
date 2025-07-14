@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
+  <diagram name="Page-1" id="R86vKsxk9RnAbrF0XPly">
+    <mxGraphModel dx="1502" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OY3xQm6jd87td_Gq2lA7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OY3xQm6jd87td_Gq2lA7-1" target="OY3xQm6jd87td_Gq2lA7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OY3xQm6jd87td_Gq2lA7-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OY3xQm6jd87td_Gq2lA7-1" target="OY3xQm6jd87td_Gq2lA7-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OY3xQm6jd87td_Gq2lA7-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="OY3xQm6jd87td_Gq2lA7-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OY3xQm6jd87td_Gq2lA7-1" value="Account Settings and Services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OY3xQm6jd87td_Gq2lA7-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OY3xQm6jd87td_Gq2lA7-2" target="OY3xQm6jd87td_Gq2lA7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OY3xQm6jd87td_Gq2lA7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OY3xQm6jd87td_Gq2lA7-2" target="OY3xQm6jd87td_Gq2lA7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OY3xQm6jd87td_Gq2lA7-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OY3xQm6jd87td_Gq2lA7-2" target="OY3xQm6jd87td_Gq2lA7-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OY3xQm6jd87td_Gq2lA7-2" value="Profile Settings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OY3xQm6jd87td_Gq2lA7-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OY3xQm6jd87td_Gq2lA7-4" target="OY3xQm6jd87td_Gq2lA7-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OY3xQm6jd87td_Gq2lA7-4" value="View Profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OY3xQm6jd87td_Gq2lA7-6" value="Edit Profile" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OY3xQm6jd87td_Gq2lA7-8" value="Add Nominee" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="565" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OY3xQm6jd87td_Gq2lA7-10" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OY3xQm6jd87td_Gq2lA7-6" target="OY3xQm6jd87td_Gq2lA7-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="420" as="sourcePoint" />
+            <mxPoint x="450" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OY3xQm6jd87td_Gq2lA7-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="OY3xQm6jd87td_Gq2lA7-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="485" y="409.5" as="sourcePoint" />
+            <mxPoint x="560" y="409.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OY3xQm6jd87td_Gq2lA7-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OY3xQm6jd87td_Gq2lA7-12" target="OY3xQm6jd87td_Gq2lA7-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OY3xQm6jd87td_Gq2lA7-12" value="Account Settings" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OY3xQm6jd87td_Gq2lA7-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OY3xQm6jd87td_Gq2lA7-14" target="OY3xQm6jd87td_Gq2lA7-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OY3xQm6jd87td_Gq2lA7-14" value="Transcion limit set" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OY3xQm6jd87td_Gq2lA7-16" value="Transaction limit will be applied while withdrawing the amount." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OY3xQm6jd87td_Gq2lA7-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OY3xQm6jd87td_Gq2lA7-18" target="OY3xQm6jd87td_Gq2lA7-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OY3xQm6jd87td_Gq2lA7-18" value="Passbook Download" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OY3xQm6jd87td_Gq2lA7-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OY3xQm6jd87td_Gq2lA7-20" target="OY3xQm6jd87td_Gq2lA7-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OY3xQm6jd87td_Gq2lA7-20" value="Date Calculation" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OY3xQm6jd87td_Gq2lA7-22" value="Response in txt format" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OY3xQm6jd87td_Gq2lA7-24" value="Account holder will able to see his/her full profile" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
